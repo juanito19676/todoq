@@ -1,0 +1,259 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+div{
+  position: absolute;
+  display: inline-block;
+
+
+}
+.contenedor{
+position: relative;
+  padding: 0px;
+  background: white;
+  height: 100px;
+  width: 99.5%;
+}
+.contenedor2{
+  border: 4px solid black ;
+position: relative;
+  padding: 0px;
+  background: #E7BC5A;
+  height: 80px;
+  width: 99.5%;
+}
+.contenedorpie{
+  border: 4px solid black ;
+position: relative;
+  padding: 0px;
+  background: white;
+  height: 160px;
+  width: 99.5%;
+}
+.caja1{
+	top:0;
+  left: 40px;
+}
+.facbook{
+  top: 10px;
+  right: 450px;
+}
+.twitter{
+  top: 10px;
+  right: 300px;
+}
+.instagram{
+  top: 10px;
+  right: 150px;
+}
+.facletra{
+  top: 80px;
+  right: 435px;
+}
+.twiletra{
+  top: 80px;
+  right: 292px;
+}
+.insletra{
+  top: 80px;
+  right: 123px;
+}
+.Inicio{
+  height: 80px;
+  top: 30px;
+  width: 218px;
+  left: 0px;
+}
+
+.Portafolio{
+  height: 80px;
+  width: 218px;
+  left: 218px;
+  top: 25px;
+}
+.Definicion{
+  height: 80px;
+  width: 218px;
+  left: 436px;
+  top: 30px;
+}
+.Iienda{
+  height: 80px;
+  width: 218px;
+  left: 654px;
+  top: 30px;
+}
+.Acciones{
+  height: 80px;
+  width: 218px;
+  left: 872px;
+  top: 25px;
+}
+.matriz{
+  height: 80px;
+  width: 218px;
+  left: 1090px;
+  top: 30px;
+}
+.marke{
+  height: 80px;
+  width: 218px;
+  left: 1308px;
+  top: 30px;
+}
+.mueblespaz{
+  top: 0px;
+  left: 22%;
+}
+.mueblespaz1{
+  top: 30px;
+  left: 20%;
+}
+.funciones{
+  top: 0px;
+  left: 63%;
+}
+.tablafunciones{
+  top: 30px;
+  left: 63%;
+}
+.tablafunciones1{
+  top: 30px;
+  left: 75%;
+}
+
+
+.contenedormercado{
+  position: relative;
+    padding: 0px;
+
+    height: 844px;
+    width: 100%;
+}
+.letra1{
+
+  height: 400px;
+  width: 200px;
+left: 20px;
+  top: 150px;
+
+}
+
+.letra2{
+
+  height: 400px;
+  width: 200px;
+left: 240px;
+  top: 150px;
+}
+.letra3{
+
+  height: 400px;
+  width: 200px;
+left: 460px;
+  top: 150px;
+}
+.letra4{
+
+  height: 400px;
+  width: 200px;
+left: 680px;
+  top: 150px;
+}
+.letra5{
+
+  height: 400px;
+  width: 200px;
+left: 900px;
+  top: 150px;
+}
+
+.acci1{
+  left: 20px;
+    top: 500px;
+}
+.acci2{
+  left: 240px;
+    top: 420px;
+}
+.acci3{
+  left: 460px;
+    top: 450px;
+}
+.acci4{
+  left: 680px;
+    top: 600px;
+}
+.acci5{
+  left: 900px;
+    top: 500px;
+}
+
+
+.contenedormercado2{
+  position: relative;
+    padding: 0px;
+
+    height: 844px;
+    width: 100%;
+}
+
+.letra6{
+
+  height: 400px;
+  width: 185px;
+left: 530px;
+  top: 150px;
+}
+
+.letra7{
+
+  height: 400px;
+  width: 185px;
+left: 725px;
+  top: 150px;
+}
+.letra8{
+
+  height: 400px;
+  width: 185px;
+left: 920px;
+  top: 150px;
+}
+.letra9{
+
+  height: 400px;
+  width: 185px;
+left: 1115px;
+  top: 150px;
+}
+.letra10{
+
+  height: 400px;
+  width: 185px;
+left: 1310px;
+  top: 150px;
+}
+
+.acci6{
+  left: 530px;
+    top: 500px;
+}
+.acci7{
+  left: 725px;
+    top: 620px;
+}
+.acci8{
+  left: 920px;
+    top: 560px;
+}
+.acci9{
+  left: 1115px;
+    top: 650px;
+}
+.acci10{
+  left: 1310px;
+    top: 590px;
+}

@@ -1,0 +1,209 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+div{
+  position: absolute;
+  display: inline-block;
+
+
+}
+.contenedor{
+position: relative;
+  padding: 0px;
+  background: white;
+  height: 100px;
+  width: 99.5%;
+}
+.contenedor2{
+  border: 4px solid black ;
+position: relative;
+  padding: 0px;
+  background: #E7BC5A;
+  height: 80px;
+  width: 99.5%;
+}
+.contenedorpie{
+  border: 4px solid black ;
+position: relative;
+  padding: 0px;
+  background: white;
+  height: 160px;
+  width: 99.5%;
+}
+.caja1{
+	top:0;
+  left: 40px;
+}
+.facbook{
+  top: 10px;
+  right: 450px;
+}
+.twitter{
+  top: 10px;
+  right: 300px;
+}
+.instagram{
+  top: 10px;
+  right: 150px;
+}
+.facletra{
+  top: 80px;
+  right: 435px;
+}
+.twiletra{
+  top: 80px;
+  right: 292px;
+}
+.insletra{
+  top: 80px;
+  right: 123px;
+}
+.Inicio{
+  height: 80px;
+  top: 30px;
+  width: 218px;
+  left: 0px;
+}
+
+.Portafolio{
+  height: 80px;
+  width: 218px;
+  left: 218px;
+  top: 25px;
+}
+.Definicion{
+  height: 80px;
+  width: 218px;
+  left: 436px;
+  top: 30px;
+}
+.Iienda{
+  height: 80px;
+  width: 218px;
+  left: 654px;
+  top: 30px;
+}
+.Acciones{
+  height: 80px;
+  width: 218px;
+  left: 872px;
+  top: 25px;
+}
+.matriz{
+  height: 80px;
+  width: 218px;
+  left: 1090px;
+  top: 30px;
+}
+.marke{
+  height: 80px;
+  width: 218px;
+  left: 1308px;
+  top: 30px;
+}
+.mueblespaz{
+  top: 0px;
+  left: 22%;
+}
+.mueblespaz1{
+  top: 30px;
+  left: 20%;
+}
+.funciones{
+  top: 0px;
+  left: 63%;
+}
+.tablafunciones{
+  top: 30px;
+  left: 63%;
+}
+.tablafunciones1{
+  top: 30px;
+  left: 75%;
+}
+
+
+
+.contenedoraccion1{
+  position: relative;
+    padding: 0px;
+    background: white;
+    height: 844px;
+    width: 1535px;
+}
+
+.contenedoraccion2{
+  position: relative;
+    padding: 0px;
+    background: white;
+    height: 844px;
+    width: 1535px;
+}
+
+.letra1{
+
+  height: 300px;
+  width: 500px;
+  left: 250px;
+  top: 500px;
+
+}
+.letra2{
+
+  height: 300px;
+  width: 500px;
+  left: 800px;
+  top: 50px;
+
+}
+
+.letra3{
+
+  height: 150px;
+  width: 250px;
+  left: 47px;
+  top: 295px;
+
+}
+.letra4{
+
+  height: 150px;
+  width: 250px;
+  left: 456px;
+  top: 295px;
+
+}
+
+.letra5{
+
+  height: 150px;
+  width: 250px;
+  left: 847px;
+  top: 295px;
+
+}
+
+.letra6{
+
+  height: 150px;
+  width: 250px;
+  left: 1205px;
+  top: 295px;
+
+}
+.letra7{
+
+  height: 150px;
+  width: 250px;
+  left: 260px;
+  top: 635px;
+}
+.letra8{
+
+  height: 150px;
+  width: 250px;
+  left: 1020px;
+  top: 640px;
+}
